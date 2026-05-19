@@ -1,3 +1,5 @@
+Team Members: Andrew Pham, no partner
+
 Where to run automated end-to-end tests in the pipeline
 
 Preferred option: Within a GitHub Action that runs whenever code is pushed
